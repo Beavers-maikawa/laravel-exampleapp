@@ -20,7 +20,7 @@
             <div>
                 <h3 class="font-semibold text-lg mb-2">お知らせのページ</h3>
                 <ul>
-                    <li class="mb-1"><a href="#" class="hover:underline">ニュース一覧 (新窓)</a></li>
+                    <li class="mb-1"><a href="#" class="hover:underline">ニュース一覧</a></li>
                     <li><a href="#" class="hover:underline">ログイン</a></li>
                 </ul>
             </div>
